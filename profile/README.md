@@ -1,5 +1,8 @@
 ## Hi there 👋
-## 😄 Pronouns: Corporate Entity
+## Welcome to the C5 & NaeNae collaborative organization!
+- 😄 Pronouns: We/Our
+- 💬 Ask us about learning how to work with others on github
+- ⚡ Fun fact: We hope to live forever
 
 <!--
 
